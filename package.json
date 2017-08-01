@@ -1,0 +1,14 @@
+{
+  "name": "example-api",
+  "version": "1.0.0",
+  "description": "API web fonctionnant sur Node.JS avec plugin express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Massinissa BOUTRIG",
+  "license": "ISC"
+}
